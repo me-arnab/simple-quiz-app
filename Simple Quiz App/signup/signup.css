@@ -54,6 +54,7 @@ body {
 }
 
 #login-container {
+  max-width: 800px;
   margin-top: 60px;
   border: 1px solid rgb(0, 0, 0);
   border-radius: 8px;
